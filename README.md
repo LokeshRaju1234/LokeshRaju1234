@@ -32,5 +32,5 @@
 ### 🎮 Fun Zone
 
 <p align="center">
-  <img src="./fun.gif" width="450" alt="Coding GIF" />
+  <img src="https://raw.githubusercontent.com/Aakashdeveloper/Aakashdeveloper/main/assets/coding.gif" width="450" alt="Matrix Coding GIF" />
 </p>
