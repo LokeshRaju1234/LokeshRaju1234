@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, Lokesh here</h1>
+<p align="center"><em>"Building solutions one line of code at a time 🚀"</em></p>
 
-<!--
-**LokeshRaju1234/LokeshRaju1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Working on: **System design,SpringBoot & Problem Solving**
+- 🌱 Exploring: **Distributed Systems & Modern Backend Systems**
+- 💬 Ask me about: **C++, Python, Java, and Backend Development**
+- 📫 Reach me at: **lokeshloki20289@gmail.com**
+- 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/lokesh-raju-7683a4354)
+
+---
+
+### ⚡ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,SpringBoot,git,linux,docker,Github actions,Jenkins,LLD,HLD,MYSQL,POSTGRESQL,Puppet" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokeshRaju1234&theme=tokyonight&hide_border=true" alt="Lokesh's Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LokeshRaju1234&show_icons=true&theme=tokyonight&hide_border=true" alt="Lokesh's GitHub Stats" />
+</p>
+
+---
+
+### 🎮 Fun Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" alt="Coding GIF" width="400" />
+</p>
