@@ -31,8 +31,6 @@
 
 ### 🎮 Fun Zone
 
-<div align="center">
-
-![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXk5bmhkOXg0bHFuNzN2MWJycW1sc2Q4aXZ0eHNjMnlleWFvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif)
-
-</div>
+<p align="center">
+  <img src="./fun.gif" width="450" alt="Coding GIF" />
+</p>
