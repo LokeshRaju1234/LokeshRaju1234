@@ -17,8 +17,9 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,spring,git,linux,docker,githubactions,jenkins,mysql,postgres" alt="Tech Stack" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-brightgreen?style=for-the-badge&logo=codeforces&logoColor=white" alt="DSA Badge" />
 </p>
-
 ---
 
 ### 📊 GitHub Stats
