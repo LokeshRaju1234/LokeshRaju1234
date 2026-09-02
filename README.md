@@ -36,7 +36,5 @@
 ### 🎮 Fun Zone
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="0" />
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0" />
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1add22ab/1541580611624-TE64QGKR48OH1UWUIGOM/coder.gif" alt="Coding GIF" width="400" />
+  <img src="https://media1.tenor.com/m/fT_039X2i-AAAAAC/typing-cat.gif" width="400" alt="Coding Cat GIF" />
 </p>
