@@ -27,10 +27,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LokeshRaju1234&theme=tokyonight&hide_border=true" alt="Lokesh's Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=LokeshRaju1234&show_icons=true&theme=tokyonight&hide_border=true" alt="Lokesh's GitHub Stats" />
-</p>
-
 ---
 
 ### 🎮 Fun Zone
