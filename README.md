@@ -7,7 +7,7 @@
 
 - 🔭 Working on: **System design,SpringBoot & Problem Solving**
 - 🌱 Exploring: **Distributed Systems & Modern Backend Systems**
-- 💬 Ask me about: **C++, Python, Java, and Backend Development**
+- 💬 Ask me about: **C++, Python, Java, and Backend Development with SpringBoot,OOPS,Computer-Networks,Operating Systems,DBMS**
 - 📫 Reach me at: **lokeshloki20289@gmail.com**
 - 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/lokesh-raju-7683a4354)
 
