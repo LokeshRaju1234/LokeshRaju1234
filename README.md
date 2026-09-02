@@ -31,6 +31,8 @@
 
 ### 🎮 Fun Zone
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/fT_039X2i-AAAAAC/typing-cat.gif" width="400" alt="Coding Cat GIF" />
-</p>
+<div align="center">
+
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZhcXk5bmhkOXg0bHFuNzN2MWJycW1sc2Q4aXZ0eHNjMnlleWFvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unQ3IJU2RG7DO/giphy.gif)
+
+</div>
