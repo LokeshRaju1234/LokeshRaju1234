@@ -5,9 +5,9 @@
 
 ### 🌱 About Me
 
-- 🔭 Working on: **System design,SpringBoot & Problem Solving**
+- 🔭 Working on: **System Design, Spring Boot & Problem Solving**
 - 🌱 Exploring: **Distributed Systems & Modern Backend Systems**
-- 💬 Ask me about: **C++, Python, Java, and Backend Development with SpringBoot,OOPS,Computer-Networks,Operating Systems,DBMS**
+- 💬 Ask me about: **C++, Python, Java, Spring Boot, OOP, CN, OS, DBMS**
 - 📫 Reach me at: **lokeshloki20289@gmail.com**
 - 🔗 Connect with me: [LinkedIn](https://linkedin.com/in/lokesh-raju-7683a4354)
 
@@ -16,7 +16,7 @@
 ### ⚡ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,java,SpringBoot,git,linux,docker,Github actions,Jenkins,LLD,HLD,MYSQL,POSTGRESQL,Puppet" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,spring,git,linux,docker,githubactions,jenkins,mysql,postgres" alt="Tech Stack" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LokeshRaju1234&show_icons=true&theme=tokyonight&hide_border=true" alt="Lokesh's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LokeshRaju1234&show_icons=true&theme=tokyonight&hide_border=true" alt="Lokesh's GitHub Stats" />
 </p>
 
 ---
@@ -36,5 +36,7 @@
 ### 🎮 Fun Zone
 
 <p align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" alt="Coding GIF" width="400" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" width="0" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="0" />
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1add22ab/1541580611624-TE64QGKR48OH1UWUIGOM/coder.gif" alt="Coding GIF" width="400" />
 </p>
